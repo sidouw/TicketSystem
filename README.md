@@ -5,6 +5,14 @@ A Simple ticket managment system with user authentication, roles , ticket commen
 made with MERN stack and antd ui library 
 
 
+
+## Tech Stack
+
+**Client:** React, Redux,react-router antd
+
+**Server:** Node, Express,mongodb
+
+
 ## Screenshots
 
 ### Dashboard
@@ -47,11 +55,3 @@ To run this project, you will need to add the following environment variables to
 `CORS_ORIGIN`
 
 `SECRET`
-
-
-## Tech Stack
-
-**Client:** React, Redux,react-router antd
-
-**Server:** Node, Express,mongodb
-
